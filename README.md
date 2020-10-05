@@ -2,7 +2,7 @@ This project was build with nodeJs
 
 An amazing chat app built using html, css & javascript for frontend and nodeJs for backend🚀
 
-[LIVE DEMO](https://afternoon-sierra-59290.herokuapp.com/)
+[LIVE DEMO](https://afternoon-sierra-59290.herokuapp.com)
 
 ## Available Scripts
 
